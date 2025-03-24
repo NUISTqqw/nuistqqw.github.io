@@ -15,4 +15,4 @@ I am very fortunate to be advised by [Prof. Sijia Lou](https://as.nju.edu.cn/c4/
 
 You can see my CV here: [Guanjie Jiao's Curriculum Vitae](../assets/CV.pdf)
 
-[E-mail](mailto: guanjie.jiao@nuist.edu.cn) / [ResearchGate](https://www.researchgate.net/profile/Guanjie-Jiao/research) / [WeChat](../images/wechat.png)
+[E-mail](mailto: guanjie.jiao@nuist.edu.cn) / [ResearchGate](https://www.researchgate.net/profile/Guanjie-Jiao/research) / [WeChat](../images/wechat.png) / [Github](https://github.com/NUISTqqw)
